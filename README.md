@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ....
 -->
 
-![Felipe F. Campos Status](https://github-readme-stats.vercel.app/api?username=Felipe-FCampos&theme=dark&show_icons=true)
+[![Felipe F. Campos Status](https://github-readme-stats.vercel.app/api?username=Felipe-FCampos&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-FCampos&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
