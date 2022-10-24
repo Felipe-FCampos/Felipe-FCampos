@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Felipe F. Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-FCampos&show_icons=true&theme=radical)
+
+![Felipe F. Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-FCampos&show_icons=true)
