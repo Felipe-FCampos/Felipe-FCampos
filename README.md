@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi👋
+Olá!
+
+Welcome to my profile, I hope you like it!
+Bem vindo ao meu perfil, Espero que goste!
 
 <!--
 **Felipe-FCampos/Felipe-FCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
